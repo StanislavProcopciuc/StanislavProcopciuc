@@ -3,3 +3,4 @@
 3. 15-07-2024 | **"Manually installed Arch Linux"** as primary operating system
 4. 16-07-2024 | **"Programming a Guessing Game"** The Rust Programming Language
 5. 19-07-2024 | **"Common Programming Concepts"** The Rust Programming Language
+6. 24-07-2024 | **"Understanding Ownership"** The Rust Programming Language
