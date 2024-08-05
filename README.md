@@ -5,3 +5,4 @@
 5. 19-07-2024 | **_Programming_** | **"Common Programming Concepts"** | The Rust Programming Language
 6. 24-07-2024 | **_Programming_** | **"Understanding Ownership"** | The Rust Programming Language
 7. 29-07-2024 | **_Programming_** | **"Using Structs to Structure Related Data"** | The Rust Programming Language
+8. 05-08-2024 | **_Cybersecurity_** | **"Cybersecurity Concepts"** | Free online resources
